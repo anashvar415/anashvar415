@@ -22,7 +22,7 @@
 - 🚀 I love building AI-powered platforms and robust full-stack applications.
 - 🧠 Currently learning and exploring more about **Redis**, Microservices, and advanced GenAI workflows.
 - 🏆 Recognized as a Top Performing Candidate at the **ET AI Hackathon 2026** and ranked in the **Top 8% nationwide** for the **AlgoUniversity Technology Fellowship 2025**.
-- ⚡ Fun fact: I've solved over **500+ coding problems**, including 300+ on LeetCode!
+- ⚡ Fun fact: I've solved over **400+ coding problems**, including 300+ on LeetCode!
 
 ---
 
